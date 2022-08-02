@@ -1,7 +1,6 @@
 provider "google" {
     project = var.project_id
     region = var.region
-    credentials = "cred.json"
 }
 
 resource "google_service_account" "DC-sa" {
