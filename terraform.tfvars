@@ -1,0 +1,5 @@
+project_id = "spatial-ship-354209"
+sa="dc-account2"
+region = "us-central1"
+entry_id = "dc"
+entry_group_id = "my_group"
