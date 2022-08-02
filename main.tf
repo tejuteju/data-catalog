@@ -5,7 +5,7 @@ provider "google" {
 
 resource "google_service_account" "DC-sa" {
   account_id   = var.sa
-  display_name = "Test Service Account for Composer Environment"
+  display_name = "Test Service Account for data catalog"
   project      = var.project_id
 }
 
