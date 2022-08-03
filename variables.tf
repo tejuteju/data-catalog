@@ -13,3 +13,6 @@ variable "entry_id" {
 variable "entry_group_id" {
   type=string
 }
+variable "tag_template_id" {
+  type=string
+}
